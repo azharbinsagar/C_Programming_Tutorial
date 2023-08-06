@@ -1,5 +1,5 @@
-| **Exercises No** |                         **Description**                        | **View File** |
-|:----------------:|:--------------------------------------------------------------:|:-------------:|
+| **Exercises NO** | **Description**                                                | **View File** |
+|------------------|----------------------------------------------------------------|---------------|
 | My first program | Print Hello, World!                                            |               |
 | Exercise_1       | Program to Add Two Integers                                    |               |
 | Exercise_2       | Find the Sum and Average of Three Numbers (Simple Way)         |               |
