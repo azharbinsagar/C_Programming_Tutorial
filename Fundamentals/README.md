@@ -1,4 +1,4 @@
-| **Exercises NO** |                         **Description**                        | **View File** |
+| **Exercises No** |                         **Description**                        | **View File** |
 |:----------------:|:--------------------------------------------------------------:|:-------------:|
 | My first program | Print Hello, World!                                            |               |
 | Exercise_1       | Program to Add Two Integers                                    |               |
