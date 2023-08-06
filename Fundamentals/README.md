@@ -1,6 +1,8 @@
 ## C programming examples, exercises and solutions for beginners
 These examples and exercises cover basic concepts like input/output, arithmetic operations, and conditional statements. They can serve as a starting point for beginners to practice and get familiar with C programming. Feel free to modify and expand upon them to further enhance your understanding of the language. Happy coding!
 
+---
+
 
 | **Exercises No** | **Description**                                                | **View File**                                                                                                 |
 |------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -18,6 +20,7 @@ These examples and exercises cover basic concepts like input/output, arithmetic 
 | Exercise_11      | C Program to Print ASCII Value                                 | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_11.c)          |
 | Exercise_12      | C Program to swap two numbers without using the third variable | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_12.c)          |
 
+---
 
 ## Best Platforms for training
 
