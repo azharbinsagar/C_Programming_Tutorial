@@ -1,4 +1,6 @@
 ## C programming examples, exercises and solutions for beginners
+These examples and exercises cover basic concepts like input/output, arithmetic operations, and conditional statements. They can serve as a starting point for beginners to practice and get familiar with C programming. Feel free to modify and expand upon them to further enhance your understanding of the language. Happy coding!
+
 
 
 | **Exercises NO** | **Description**                                                | **View File** |
