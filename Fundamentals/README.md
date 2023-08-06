@@ -2,24 +2,21 @@
 These examples and exercises cover basic concepts like input/output, arithmetic operations, and conditional statements. They can serve as a starting point for beginners to practice and get familiar with C programming. Feel free to modify and expand upon them to further enhance your understanding of the language. Happy coding!
 
 
-
-| **Exercises NO** | **Description**                                                | **View File** |
-|------------------|----------------------------------------------------------------|---------------|
-| My first program | Print Hello, World!                                            |               |
-| Exercise_1       | Program to Add Two Integers                                    |               |
-| Exercise_2       | Find the Sum and Average of Three Numbers (Simple Way)         |               |
-| Exercise_3       | Find the area, perimeter of a rectangle in inches              |               |
-| Exercise_4       | Find Area of Rhombus                                           |               |
-| Exercise_5       | Convert temperature from degree celsius to fahrenheit          |               |
-| Exercise_6       | Program to convert days in to years, weeks and days            |               |
-| Exercise_7       | Calculate simple interest                                      |               |
-| Exercise_8       | Calculate total, average and percentage of five subjects       |               |
-| Exercise_9       | Convert a given integer to hours, minutes and seconds          |               |
-| Exercise_10      | C Program to find the Size of data types                       |               |
-| Exercise_11      | C Program to Print ASCII Value                                 |               |
-| Exercise_12      | C Program to swap two numbers without using the third variable |               |
-
-
+| **Exercises No** | **Description**                                                | **View File**                                                                                                 |
+|------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| My first program | Print Hello, World!                                            | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/My%20first%20program.c) |
+| Exercise_1       | Program to Add Two Integers                                    | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_1.c)           |
+| Exercise_2       | Find the Sum and Average of Three Numbers (Simple Way)         | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_2.c)           |
+| Exercise_3       | Find the area, perimeter of a rectangle in inches              | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_3.c)           |
+| Exercise_4       | Find Area of Rhombus                                           | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_4.c)           |
+| Exercise_5       | Convert temperature from degree celsius to fahrenheit          | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_5.c)           |
+| Exercise_6       | Program to convert days in to years, weeks and days            | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_6.c)           |
+| Exercise_7       | Calculate simple interest                                      | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_7.c)           |
+| Exercise_8       | Calculate total, average and percentage of five subjects       | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_8.c)           |
+| Exercise_9       | Convert a given integer to hours, minutes and seconds          | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_9.c)           |
+| Exercise_10      | C Program to find the Size of data types                       | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_10.c)          |
+| Exercise_11      | C Program to Print ASCII Value                                 | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_11.c)          |
+| Exercise_12      | C Program to swap two numbers without using the third variable | [View](https://github.com/azharbinsagar/C_Programming_Tutorial/blob/main/Fundamentals/Exercise_12.c)          |
 
 
 ## Best Platforms for training
