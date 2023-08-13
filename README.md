@@ -107,7 +107,7 @@ Go [**`here`**](https://github.com/azharbinsagar/C_Programming_Tutorial) if you 
 
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/azharbinsagar/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azhar-bin-sagar-123855122/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azharbinsagar)
 [![Instagram](https://img.shields.io/badge/-instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/azharbinsagar?igshid=OGQ5ZDc2ODk2ZA==/)
 
 ---
